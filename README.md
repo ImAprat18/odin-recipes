@@ -1,0 +1,1 @@
+This is the first project from The Odin Project, aiming to teach the learner the basics of HTML. In attempting to revisit full stack development from scratch, I have created a skeleton website here using information from Allrecipes (allrecipes.com) to create this project. A basic idea of commonly used tags has been established through this work.
